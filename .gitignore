@@ -1,0 +1,8 @@
+**/__pycache__/
+**/.vscode/
+**/old/
+**/out/
+**/data/*.sqlite
+**/data/Qradar/
+**/data-/
+
