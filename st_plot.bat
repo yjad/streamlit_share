@@ -1,1 +1,1 @@
-streamlit run st_plot.py
+streamlit run st_plot_vulnerability.py
