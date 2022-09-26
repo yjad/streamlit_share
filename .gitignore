@@ -2,7 +2,6 @@
 **/.vscode/
 **/old/
 **/out/
-**/data/*.sqlite
-**/data/Qradar/
+**/data/**/
 **/data-/
 
